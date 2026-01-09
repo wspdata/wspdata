@@ -5,7 +5,7 @@ Entusiasta da tecnologia em transição de carreira, com formação em Análise 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-de-souza-pereira-b69109202)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ws13292@gmail.com)
 
-E fique a vontade para dar uma olhada nos meus projetos aqui em baixo:
+Segue alguns de meus projetos abaixo:
 ------------
 
 |    Nome do Projeto  | Notebook ou Link    | Tecnologias  | Observação  | 
