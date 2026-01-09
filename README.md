@@ -12,5 +12,5 @@ Segue alguns de meus projetos abaixo:
 
 |    Nome do Projeto  | Notebook ou Link    | Tecnologias  | Observação  | 
 | ------------        | ------------        | ------------ |------------ |
-| *Análise de E-commerce* | [Projeto_E-Commerce](https://github.com/willtrash/projeto-e-commerce) | Python, Tableau| usei **EDA**, segmentação de usuários, testes A/B (**Python**) e criei um **dashboard** usando **Tableau** para gerar insights de ofertas e estratégias de marketing. |
+| *Análise de E-commerce* | [Projeto_E-Commerce](https://github.com/willtrash/projeto-e-commerce) | Python, Tableau| usei **EDA**, segmentação de usuários (**Python**) e criei um **dashboard** usando **Tableau** para gerar insights de ofertas e estratégias de marketing. |
 | *Análise de serviço de livros* | [SQL Book Project](https://github.com/willtrash/SQL-Book-Project) | SQL | usei **sqlalchemy** para conectar ao banco de dados e realizei consultas **SQL** para analisar o comportamento dos usuários, a popularidade de livros, autores e editoras, além de padrões de classificação. |
