@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Sou um profissional em transição de carreira para a área de Análise de Dados, com formação em Análise de Dados e experiência prática no desenvolvimento de projetos voltados à exploração, tratamento e visualização de dados. Trabalho principalmente com Python, SQL e Tableau, aplicando conceitos de análise exploratória (EDA), geração de insights e apoio à tomada de decisão baseada em dados.
+Sou um profissional em transição de carreira para a área de Análise de Dados, com formação em Análise de Dados pelo bootcamp da TripleTen e experiência prática no desenvolvimento de projetos voltados à exploração, tratamento e visualização de dados. Trabalho principalmente com Python, SQL e Tableau, aplicando conceitos de análise exploratória (EDA), geração de insights e apoio à tomada de decisão baseada em dados.
 
 Tenho experiência profissional no varejo, atuando em um ambiente orientado a resultados, o que me proporcionou uma forte visão de negócio, além de habilidades como comunicação clara, trabalho em equipe e resolução de problemas. Ao longo dessa vivência, desenvolvi um olhar analítico para identificar padrões de comportamento, apoiar decisões operacionais e entender o impacto de diferentes estratégias no desempenho de produtos.
 
