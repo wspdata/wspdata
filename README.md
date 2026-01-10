@@ -2,7 +2,11 @@
 
 **`Analista de Dados`**
 
-Entusiasta da tecnologia em transição de carreira, com formação em Análise de Dados e conhecimento em Python, SQL e Tableau. Focado em resolução de problemas e aprendizado contínuo, já desenvolvi projetos práticos que envolvem tratamento e análise de dados, criação de dashboards e aprendizado de máquina.
+Sou um profissional em transição de carreira para a área de Análise de Dados, com formação em Análise de Dados e experiência prática no desenvolvimento de projetos voltados à exploração, tratamento e visualização de dados. Trabalho principalmente com Python, SQL e Tableau, aplicando conceitos de análise exploratória (EDA), geração de insights e apoio à tomada de decisão baseada em dados.
+
+Tenho experiência profissional no varejo, atuando em um ambiente orientado a resultados, o que me proporcionou uma forte visão de negócio, além de habilidades como comunicação clara, trabalho em equipe e resolução de problemas. Ao longo dessa vivência, desenvolvi um olhar analítico para identificar padrões de comportamento, apoiar decisões operacionais e entender o impacto de diferentes estratégias no desempenho de produtos.
+
+Atualmente, venho aprofundando meus conhecimentos técnicos por meio de projetos práticos que envolvem análise de dados, criação de dashboards, testes A/B e fundamentos de machine learning, sempre buscando conectar dados a problemas reais de negócio. Tenho interesse em oportunidades como Analista de Dados ou Analista de BI Júnior, especialmente em contextos que valorizem aprendizado contínuo e impacto nas decisões estratégicas.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-de-souza-pereira-b69109202)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ws13292@gmail.com)
