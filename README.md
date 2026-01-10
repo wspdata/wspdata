@@ -1,5 +1,6 @@
 # Willian de Souza Pereira
 **`Analista de Dados`**
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-de-souza-pereira-b69109202)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ws13292@gmail.com)
 
