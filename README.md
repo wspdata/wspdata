@@ -8,7 +8,7 @@ Sou um profissional em transição de carreira para a área de Análise de Dados
 
 Tenho experiência profissional no varejo, atuando em um ambiente orientado a resultados, o que me proporcionou uma forte visão de negócio, além de habilidades como comunicação clara, trabalho em equipe e resolução de problemas. Ao longo dessa vivência, desenvolvi um olhar analítico para identificar padrões de comportamento, apoiar decisões operacionais e entender o impacto de diferentes estratégias no desempenho de produtos.
 
-Atualmente, venho aprofundando meus conhecimentos técnicos por meio de projetos práticos que envolvem Análise Exploratória de Dados (Python), criação de dashboards, consultas e manipulação de dados com SQL e fundamentos de machine learning, sempre buscando conectar dados a problemas reais de negócio. Tenho interesse em oportunidades como Analista de Dados, especialmente em contextos que valorizem aprendizado contínuo e impacto nas decisões estratégicas.
+Atualmente, venho aprofundando meus conhecimentos técnicos por meio de projetos práticos que envolvem Análise Exploratória de Dados (Python), criação de dashboards, consultas e manipulação de dados com SQL e fundamentos de machine learning, sempre buscando conectar dados a problemas reais de negócio. Tenho interesse em oportunidades na área de dados, especialmente em contextos que valorizem aprendizado contínuo e geração de insights relevantes para o negócio.
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p>Python · SQL · Git · GitHub · Anaconda · Tableau</p>
