@@ -12,16 +12,13 @@ Tenho experiência profissional no varejo, atuando em um ambiente orientado a re
 Atualmente, venho aprofundando meus conhecimentos técnicos por meio de projetos práticos que envolvem Análise Exploratória de Dados (Python), criação de dashboards, consultas e manipulação de dados com SQL e fundamentos de machine learning, sempre buscando conectar dados a problemas reais de negócio. Tenho interesse em oportunidades como Analista de Dados, especialmente em contextos que valorizem aprendizado contínuo e impacto nas decisões estratégicas.
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
-
+<p>Python · SQL · Git · GitHub · Anaconda · Tableau</p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,mysql,git,github,anaconda" />
   </a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-</p>
 
 
 
