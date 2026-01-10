@@ -1,4 +1,6 @@
 # Willian de Souza Pereira
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-de-souza-pereira-b69109202)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ws13292@gmail.com)
 
 **`Analista de Dados`**
 
@@ -8,8 +10,7 @@ Tenho experiência profissional no varejo, atuando em um ambiente orientado a re
 
 Atualmente, venho aprofundando meus conhecimentos técnicos por meio de projetos práticos que envolvem Análise Exploratória de Dados (Python), criação de dashboards, consultas e manipulação de dados com SQL e fundamentos de machine learning, sempre buscando conectar dados a problemas reais de negócio. Tenho interesse em oportunidades como Analista de Dados, especialmente em contextos que valorizem aprendizado contínuo e impacto nas decisões estratégicas.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-de-souza-pereira-b69109202)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ws13292@gmail.com)
+
 
 Segue alguns de meus projetos abaixo:
 ------------
