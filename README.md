@@ -14,7 +14,7 @@ Atualmente, venho aprofundando meus conhecimentos técnicos por meio de projetos
 <p>Python · SQL · Git · GitHub · Anaconda · Tableau</p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,git,github,anaconda" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,git,github,anaconda, vscode" />
   </a>
 </p>
 
